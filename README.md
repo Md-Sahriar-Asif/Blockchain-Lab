@@ -1,8 +1,8 @@
 # P2P Network - Communication and File Sharing
 
-**Course:** CSE 433 - Blockchain & Distributed Security Lab, University of Asia Pacific
-**Student:** Md Sahriar Asif - 22201111 - Section: AB2
-**Instructor** Nahida Marzan - Lecturer - CSE, UAP
+**Course:** CSE 433 - Blockchain & Distributed Security Lab, University of Asia Pacific<br>
+**Student:** Md Sahriar Asif - 22201111 - Section: AB2<br>
+**Instructor:** Nahida Marzan - Lecturer - CSE, UAP<br>
 
 ## Project Description
 
