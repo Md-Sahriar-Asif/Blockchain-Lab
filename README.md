@@ -89,8 +89,6 @@ and sending without selecting a peer all produce a message in the log, e.g.
 
 ## Example Screenshots
 
-Add your own screenshots here (put the image files in a `screenshots/` folder):
-
 ![Peer 1](22201111_AB2_P2P_Assignment/screenshots/peer_1.png)
 ![Peer 2](22201111_AB2_P2P_Assignment/screenshots/peer_2.png)
 ![Peer 3](22201111_AB2_P2P_Assignment/screenshots/peer_3.png)
