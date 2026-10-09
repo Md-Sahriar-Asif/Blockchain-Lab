@@ -92,3 +92,8 @@ and sending without selecting a peer all produce a message in the log, e.g.
 ![Peer 1](22201111_AB2_P2P_Assignment/screenshots/peer_1.png)
 ![Peer 2](22201111_AB2_P2P_Assignment/screenshots/peer_2.png)
 ![Peer 3](22201111_AB2_P2P_Assignment/screenshots/peer_3.png)
+
+## Example Screenshots (two-computer test)
+
+![pc-1](22201111_AB2_P2P_Assignment/screenshots/pc-1.png)
+![pc-2](22201111_AB2_P2P_Assignment/screenshots/pc-2.png)
